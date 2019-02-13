@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  LanguageChange
+
+  Created by murganandam on 13/02/19.
+  Copyright © 2019 murganandam. All rights reserved.
+*/
+/* English - English */
+
+/* for debugging */
+"FirstName" = "Kavitha";
+"LastName"  = "Madhu";
+
